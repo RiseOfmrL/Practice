@@ -240,7 +240,10 @@ li:hover {
 
     display:flex;
     margin-left:480px;
-
+    font-size:40px;
+    padding:0px;
+    margin-top:0px;
+    font-weight:800;
 
 }
 
@@ -329,3 +332,18 @@ margin-top:-5px;
 
 
 }
+
+ #more {
+
+    margin-top:20px;
+
+ }
+
+
+ .mpostimgsm {
+
+    display:flex;
+    width:350px;
+    height:350px;
+
+ }
