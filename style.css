@@ -1,0 +1,126 @@
+.titlebar {
+
+display:flex;
+justify-content:space-between;
+
+}
+
+.subscribebox {
+
+    display:flex;
+    width:400px;
+    justify-content:space-between;
+    border: 5px solid black;
+    align-items:center;
+
+}
+
+.subbox {
+
+    display:flex;
+    width:70px;
+    height:100px;
+    background-color:gray;
+
+
+}
+
+.subright {
+
+    display:flex;
+    flex-direction:column;
+
+
+}
+
+
+.subbig {
+
+    display:flex;
+    font-size:20px;
+    font-weight:700;
+    color:goldenrod;
+
+}
+
+.subsmall {
+
+    display:flex;
+    width:200px;
+
+
+}
+
+
+
+
+
+
+.Title {
+
+    display:flex;
+
+
+
+
+}
+
+
+
+.toplinetitle {
+
+    display:flex;
+
+
+
+}
+
+
+.orangebox {
+
+
+    display:flex;
+
+
+}
+
+
+.titlebottom {
+
+
+    display:flex;
+
+}
+
+
+.shoptop {
+
+    display:flex;
+
+
+}
+
+.shop {
+
+    display:flex;
+
+
+}
+
+
+.WWtop {
+
+    display:flex;
+
+
+}
+
+
+.shoppingC {
+
+    display:flex;
+
+
+
+
+}
