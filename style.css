@@ -189,3 +189,48 @@ justify-content:space-between;
 
 
 }
+
+.wholead {
+
+    display:flex;
+    height:400px;
+
+
+
+}
+
+
+
+.aroundad {
+
+
+    width:100%;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color: white;
+
+
+
+}
+
+
+
+.advertisement {
+
+    display:flex;
+    width:1000px;
+    height:200px;
+    background-color:maroon;
+    justify-content: center;
+    margin-top:30px;
+
+}
+
+
+.latest {
+
+    display:flex;
+
+
+}
