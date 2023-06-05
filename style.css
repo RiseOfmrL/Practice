@@ -156,8 +156,8 @@ justify-content:space-between;
     color:white;
     justify-content:space-around;
     align-items:center;
-    position:fixed;
-
+    position:sticky;
+    top:0;
 
 
 }
@@ -168,6 +168,7 @@ justify-content:space-between;
     display:flex;
     gap:20px;
     align-items:center;
+    justify-content:center;
 
 
 }
@@ -176,6 +177,13 @@ justify-content:space-between;
 
 
     display:flex;
+    padding:6px;
+
+}
+
+li:hover {
+
+    background-color:goldenrod;
 
 
 }
@@ -220,7 +228,7 @@ justify-content:space-between;
 
     display:flex;
     width:1000px;
-    height:200px;
+    height:150px;
     background-color:maroon;
     justify-content: center;
     margin-top:30px;
@@ -231,6 +239,93 @@ justify-content:space-between;
 .latest {
 
     display:flex;
+    margin-left:480px;
+
+
+}
+
+.postimgb {
+
+
+display:flex;
+
+
+
+}
+
+.PostBig {
+
+    display:flex;
+    justify-content: center;
+    gap:20px;
+
+
+
+
+}
+
+
+.bigimgone {
+
+    display:flex;
+    width:500px;
+    height:350px;
+
+
+}
+
+.latestleft {
+
+    display:flex;
+    width:500px;
+    flex-direction:column;
+
+}
+
+.latestright {
+
+    display:flex;
+    width:500px;
+    flex-direction:column;
+
+}
+
+.smallcap {
+
+    color:lightgray;
+
+}
+
+.imgtitle {
+
+font-size:25px;
+font-weight:700;
+margin-top:-5px;
+
+
+
+}
+
+
+.imgdesc {
+
+color:gray;
+margin-top:-5px;
+
+}
+
+
+.keepreading {
+
+padding:0px;
+font-weight:700;
+margin-top:-5px;
+
+}
+
+.keepreading:hover {
+
+    color:goldenrod;
 
 
 }
