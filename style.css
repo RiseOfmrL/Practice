@@ -236,16 +236,54 @@ li:hover {
 }
 
 
+.moret {
+
+    display:flex;
+    width:1000px;
+    justify-self:center;
+    align-self:center;
+
+
+}
+
+.latestt {
+
+    display:flex;
+    width:1000px;
+    justify-self:center;
+    align-self:center;
+
+
+}
+
+.arlatest {
+
+    display:flex;
+    justify-content:center;
+
+
+
+}
+
+.armore {
+
+display:flex;
+justify-content:center;
+
+
+}
+
+
 .latest {
 
     display:flex;
-    margin-left:480px;
     font-size:40px;
     padding:0px;
     margin-top:0px;
     font-weight:800;
 
 }
+
 
 .postimgb {
 
