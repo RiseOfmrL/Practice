@@ -380,7 +380,6 @@ margin-top:-5px;
     flex-direction:column;
     background-color: lightgray;
 
-
  }
 
  .botomt {
@@ -422,6 +421,43 @@ margin-top:-5px;
     height: 600px;
     background-color: black;
     align-self:center;
+    margin-bottom:20px;
 
+
+
+ }
+
+
+ .Free {
+
+    display:flex;
+    background-color:darkgray;
+    justify-content:center;
+    align-content:center;
+    text-align:center;
+    flex-direction:column;
+    padding:20px;
+
+ }
+
+ .freetitle {
+
+    display:flex;
+    color:white;
+    font-size: 40px;
+    font-weight: 800;
+    align-self:center;
+    margin-top:-10px;
+
+ }
+
+ .freedes {
+
+    display:flex;
+    color:white;
+    font-size: 20px;
+    align-self:center;
+    width:1000px;
+    margin-top:-5px;
 
  }
